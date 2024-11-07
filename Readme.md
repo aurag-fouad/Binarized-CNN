@@ -45,10 +45,3 @@ You can open the Jupyter notebook, and re-run the cells to train both CNN and Bi
 # Reference
 - Hubara, Itay, et al. "Quantized neural networks: Training neural networks with low precision weights and activations." Journal of Machine Learning Research 18.187 (2018): 1-30.
 
-
-
-
-
-
-This project implements both a standard and a binarized version of a Convolutional Neural Network (CNN) based on Hubara, et al.(2018) using PyTorch. The project includes experiments with various combinations of optimizers and loss functions, along with a comparative analysis of results.
-
