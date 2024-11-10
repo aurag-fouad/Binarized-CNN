@@ -23,8 +23,8 @@ The following graph illustrates the accuracy results of various configurations f
 To run this project, clone this repository and install the required dependencies:
 
 ```bash
-git clone <https://github.com/aurag-fouad/Binarized-CNN>
-cd <https://github.com/aurag-fouad/Binarized-CNN>
+git clone https://github.com/aurag-fouad/Binarized-CNN.git
+cd Binarized-CNN
 ```
 
 Ensure you have the following in your requirements.txt:
